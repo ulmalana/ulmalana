@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Riz Maulana
-- 👀 I’m interested in functional programming
-- 🌱 I’m currently learning Clojure
+- 👋 Hi, I’m **Riz Maulana**
+- 👀 I’m interested in **functional programming**
+- 🌱 I’m currently learning **Clojure**
 - 📫 You may reach me at muhamaul@gmail.com
 
 <!---
